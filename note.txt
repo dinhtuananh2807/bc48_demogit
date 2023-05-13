@@ -14,5 +14,5 @@ Git Reset: giúp trả về trạng thái ban đầu chưa đưa lên stacking a
 Git add .
 
 - 
-Bước 4: aaaaaaaaaaaaaaaaaa
+Bước 4:git pull git
 Bước 5:
