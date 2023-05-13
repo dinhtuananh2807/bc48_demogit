@@ -8,11 +8,11 @@ ví dụ: git remote add origin https://github.com/dinhtuananh2807/bc48_demogit.
 
 Bước 3: Đẩy các đoạn code lên trên Github lưu trữ bằng 3 bước:
 - Lệnh git add dùng để đẩy các file có sự thay đổi lên staging Area 
-Lệnh Git add + tên file => dùng để đẩy file mong muốn.
+Lệnh Git add + tên file => dùng để git  file mong muốn.
 Lệnh git status sẽ giúp chúng ta kiểm tra các file đang nằm trong khu vực stagging area.
 Git Reset: giúp trả về trạng thái ban đầu chưa đưa lên stacking area.
 Git add .
-
+Git push
 - 
-Bước 4:git pull git
+Bước 4:git pull  
 Bước 5:
