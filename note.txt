@@ -34,7 +34,12 @@ Trước tiên xác định sẽ lấy tất cả code từ nhánh devAnh bỏ v
 
 Đi tới ngay tại nhánh sẽ được thêm code vào và chạy lệnh.
 
-git merch tennhanh được merch vào
+git merge tennhanh được merch vào
+
+git merge tenNhanh được merge vào.
+
+------
+
 
 
 
