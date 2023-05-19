@@ -28,6 +28,15 @@ Khi chúng ta có một số sự thay đổi code bên một nhánh khi chuyể
 git add . để đẩy tất cả các file thay đổi lên staging area và sau đó 
 mình cần chạy lệnh git commmit -m "message" để ghi lại phiên bản code đã thay đổi tại nhánh đó.
 
+Merge nhánh: khi merge nhánh cần xác định xem nhánh nào sẽ lấy code vào bên trong.
+
+Trước tiên xác định sẽ lấy tất cả code từ nhánh devAnh bỏ vào nhánh master
+
+Đi tới ngay tại nhánh sẽ được thêm code vào và chạy lệnh.
+
+git merch tennhanh được merch vào
+
+
 
 
 
