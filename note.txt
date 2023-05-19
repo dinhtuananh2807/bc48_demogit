@@ -41,6 +41,7 @@ git merge tenNhanh được merge vào.
 
 ------
 
+Đây là lần thay đổi merge thứ 2.
 
 
 
