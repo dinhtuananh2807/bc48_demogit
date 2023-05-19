@@ -8,7 +8,7 @@ ví dụ: git remote add origin https://github.com/dinhtuananh2807/bc48_demogit.
 
 Bước 3: Đẩy các đoạn code lên trên Github lưu trữ bằng 3 bước:
 - Lệnh git add dùng để đẩy các file có sự thay đổi lên staging Area 
-Lệnh Git add + tên file => dùng để git  file mong muốn.
+Lệnh Git add + tên file => dùng để git  file mongitgit g muốn.
 Lệnh git status sẽ giúp chúng ta kiểm tra các file đang nằm trong khu vực stagging area.
 Git Reset: giúp trả về trạng thái ban đầu chưa đưa lên stacking area.
 Git add .
@@ -16,3 +16,29 @@ Git push
 - 
 Bước 4:git pull  
 Bước 5:
+
+
+Tạo Nhánh (Branch)
+Lệnh tạo nhánh : git branch tenNhanh
+vd tạo một nhánh có tên devAnh
+Lệnh kiểm tra nhánh đã tạo: git branch 
+Lệnh để chuyển sang một nhánh khác: git checkout + tên nhánh
+
+Khi chúng ta có một số sự thay đổi code bên một nhánh khi chuyển qua 1 nhánh mới cần phải thực hiện 2 lệnh.
+git add . để đẩy tất cả các file thay đổi lên staging area và sau đó 
+mình cần chạy lệnh git commmit -m "message" để ghi lại phiên bản code đã thay đổi tại nhánh đó.
+
+Merge nhánh: khi merge nhánh cần xác định xem nhánh nào sẽ lấy code vào bên trong.
+
+Trước tiên xác định sẽ lấy tất cả code từ nhánh devAnh bỏ vào nhánh master
+
+Đi tới ngay tại nhánh sẽ được thêm code vào và chạy lệnh.
+
+git merch tennhanh được merch vào
+
+
+
+
+
+
+
